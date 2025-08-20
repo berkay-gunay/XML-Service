@@ -1,0 +1,16 @@
+Tüm Hakları Saklıdır (All Rights Reserved)
+
+Bu proje ve içeriğindeki tüm kodlar, belgeler ve diğer materyaller yalnızca yazarına (telif hakkı sahibine) aittir.
+
+İzin verilmedikçe, bu projenin hiçbir kısmı:
+
+- Kopyalanamaz
+- Çoğaltılamaz
+- Dağıtılamaz
+- Değiştirilemez
+- Türev çalışmalar yapılamaz
+- Ticari veya kişisel projelerde kullanılamaz
+
+Bu projeyi kullanmak isteyen kişilerin öncelikle proje sahibinden yazılı izin alması gerekmektedir.
+
+Telif Hakkı © 2025 [Berkay Günay]
